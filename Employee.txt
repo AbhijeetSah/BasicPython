@@ -1,0 +1,6 @@
+Employee Id = 1001
+Employee Name = Avijeet
+Salary = 2000000.0
+Employee Id = 1002
+Employee Name = avi
+Salary = 40000.0
